@@ -1,4 +1,7 @@
 # Customer-Cohort-Analysis-Power-BI
-This customer cohort analysis provides retention and churn dynamics of customers over time. The customers are from a retail company. The analysis tracks groups of customers based on their acquisition time and analyzes their behavior over time. It helps businesses understand retention trends—how many customers stay active—and churn patterns—how many drop off—across different cohorts. By observing how retention declines and churn increases month-over-month, businesses can identify critical points of customer drop-off and take targeted actions to improve long-term engagement and customer lifetime value.
-### Full Analysis Link:
+In this project, I conducted a cohort-based analysis of retail customer behavior to evaluate retention patterns and churn dynamics over time. Customers were grouped by their first purchase month to track how each cohort performed in subsequent periods.
+## Full Analysis Link:
 https://app.powerbi.com/view?r=eyJrIjoiMTFlNzhhZTYtOTE0OC00YjBhLTk2MTktZjNjYzc1OTllNWQ3IiwidCI6IjUyMDZlYzk2LWY0YzItNDc3My1hZjA3LTJmNDc3MzI4NmJjMCIsImMiOjEwfQ%3D%3D&pageName=db841aeda7a8645f53ad
+
+### ✔️ Cohort Performance & Retention Rate (%) – Measured the percentage of customers who returned after their initial purchase, revealing strong retention in early months but a gradual decline over time.
+### ✔️ Churn Customers & Churn Rate (%) – Identified customers who failed to return, calculating churn rates to highlight critical drop-off points and inform re-engagement strategies.
