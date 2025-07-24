@@ -7,7 +7,7 @@ https://app.powerbi.com/view?r=eyJrIjoiMTFlNzhhZTYtOTE0OC00YjBhLTk2MTktZjNjYzc1O
 Measured the percentage of customers who returned after their initial purchase, revealing strong retention in early months but a gradual decline over time.
 ### ✔️ Churn Customers & Churn Rate (%)
 Identified customers who failed to return, calculating churn rates to highlight critical drop-off points and inform re-engagement strategies.
-### Cohort Performace Analysis (MoM)
+### ✔️ Cohort Performace Analysis (MoM)
 - Active Vs. New Customers
 - Retention Rate Vs. CHurn Rate
 - Customer Breakdown- New, Retained Vs. Ressurected
