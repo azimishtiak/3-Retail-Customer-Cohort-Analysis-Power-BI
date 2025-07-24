@@ -13,4 +13,6 @@ Identified customers who failed to return, calculating churn rates to highlight 
 - Customer Breakdown- New, Retained Vs. Ressurected
 - Lost Vs. Ressurected Customers
 - New, Lost and Reatained Customers
+### ✔️ Recommendations
+Recommendations provided for each of the customer cohort focused on improving retention through personalized engagement strategies, timely reactivation campaigns, and optimizing onboarding experiences based on cohort-specific behavior trends.
 
