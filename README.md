@@ -3,5 +3,7 @@ In this project, I conducted a cohort-based analysis of retail customer behavior
 ## Full Analysis Link:
 https://app.powerbi.com/view?r=eyJrIjoiMTFlNzhhZTYtOTE0OC00YjBhLTk2MTktZjNjYzc1OTllNWQ3IiwidCI6IjUyMDZlYzk2LWY0YzItNDc3My1hZjA3LTJmNDc3MzI4NmJjMCIsImMiOjEwfQ%3D%3D&pageName=db841aeda7a8645f53ad
 
-### ✔️ Cohort Performance & Retention Rate (%) – Measured the percentage of customers who returned after their initial purchase, revealing strong retention in early months but a gradual decline over time.
-### ✔️ Churn Customers & Churn Rate (%) – Identified customers who failed to return, calculating churn rates to highlight critical drop-off points and inform re-engagement strategies.
+### ✔️ Cohort Performance & Retention Rate (%)
+Measured the percentage of customers who returned after their initial purchase, revealing strong retention in early months but a gradual decline over time.
+### ✔️ Churn Customers & Churn Rate (%)
+Identified customers who failed to return, calculating churn rates to highlight critical drop-off points and inform re-engagement strategies.
